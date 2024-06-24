@@ -1,2 +1,2 @@
-# nft-marketplace
-Learning Javascript Fullstack Demo
+Credits:
+- Template: https://nextjstemplates.com/templates/unft
